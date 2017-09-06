@@ -1,4 +1,0 @@
-C:\Sources\dotnet-samples\managed-disk-dotnet-create-virtual-machine-using-custom-image\bin\Debug\net452\CreateVirtualMachineUsingCustomImageFromVM.runtimeconfig.json
-C:\Sources\dotnet-samples\managed-disk-dotnet-create-virtual-machine-using-custom-image\bin\Debug\net452\CreateVirtualMachineUsingCustomImageFromVM.runtimeconfig.dev.json
-C:\Sources\dotnet-samples\managed-disk-dotnet-create-virtual-machine-using-custom-image\obj\Debug\net452\CreateVirtualMachineUsingCustomImageFromVM.csproj.CreateVirtualMachineUsingCustomImageFromVM.exe.config
-C:\Sources\dotnet-samples\managed-disk-dotnet-create-virtual-machine-using-custom-image\obj\Debug\net452\CreateVirtualMachineUsingCustomImageFromVM.csproj.CoreCompileInputs.cache
