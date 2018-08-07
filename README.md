@@ -1,10 +1,10 @@
 ---
-services: Managed
-platforms: .Net
+services: Compute
+platforms: dotnet
 author: anuchandy
 ---
 
-# Getting Started with Managed - Create Virtual Machine Using Custom Image From VM - in .Net #
+# Getting started with creating a virtual machine using a custom image #
 
           Azure Compute sample for managing virtual machines -
            - Create an un-managed virtual machine from PIR image with data disks
@@ -21,7 +21,7 @@ author: anuchandy
 
 To run this sample:
 
-Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-sdk-for-net/blob/Fluent/AUTH.md).
+Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an auth file. See [how to create an auth file](https://github.com/Azure/azure-libraries-for-java/blob/master/AUTH.md).
 
     git clone https://github.com/Azure-Samples/managed-disk-dotnet-create-virtual-machine-using-custom-image.git
 
