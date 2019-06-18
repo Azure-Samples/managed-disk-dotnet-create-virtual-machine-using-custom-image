@@ -26,10 +26,10 @@ Set the environment variable `AZURE_AUTH_LOCATION` with the full path for an aut
     git clone https://github.com/Azure-Samples/managed-disk-dotnet-create-virtual-machine-using-custom-image.git
 
     cd managed-disk-dotnet-create-virtual-machine-using-custom-image
-
-    dotnet restore
-
-    dotnet run
+  
+    dotnet build
+    
+    bin\Debug\net452\CreateVirtualMachineUsingCustomImageFromVM.exe
 
 ## More information ##
 
