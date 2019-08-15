@@ -4,22 +4,22 @@ languages:
 - csharp
 products:
 - azure
-services: Compute
-platforms: dotnet
-author: yaohaizh
+extensions:
+- services: Compute
+- platforms: dotnet
 ---
 
 # Getting started with creating a virtual machine using a custom image #
 
-          Azure Compute sample for managing virtual machines -
-           - Create an un-managed virtual machine from PIR image with data disks
-           - Deallocate the virtual machine
-           - Generalize the virtual machine
-           - Create a virtual machine custom image from the virtual machine
-           - Create a second managed virtual machine using the custom image
-           - Create a third virtual machine using the custom image and configure the data disks
-           - Deletes the custom image
-           - Get SAS Uri to the virtual machine's managed disks.
+ Azure Compute sample for managing virtual machines -
+  - Create an un-managed virtual machine from PIR image with data disks
+  - Deallocate the virtual machine
+  - Generalize the virtual machine
+  - Create a virtual machine custom image from the virtual machine
+  - Create a second managed virtual machine using the custom image
+  - Create a third virtual machine using the custom image and configure the data disks
+  - Deletes the custom image
+  - Get SAS Uri to the virtual machine's managed disks.
 
 
 ## Running this Sample ##
