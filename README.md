@@ -7,9 +7,10 @@ products:
 extensions:
 - services: Compute
 - platforms: dotnet
+description: "Azure Compute sample for managing virtual machines.
 ---
 
-# Getting started with creating a virtual machine using a custom image #
+# Getting started with creating a virtual machine using a custom image
 
  Azure Compute sample for managing virtual machines -
   - Create an un-managed virtual machine from PIR image with data disks
