@@ -13,8 +13,6 @@ using Azure.ResourceManager.Resources;
 using Azure.ResourceManager.Samples.Common;
 using Azure.ResourceManager.Storage;
 using Azure.ResourceManager.Storage.Models;
-using System.Net.Http.Headers;
-using System.Security.Cryptography.X509Certificates;
 
 namespace CreateVirtualMachineUsingCustomImageFromVM
 {
